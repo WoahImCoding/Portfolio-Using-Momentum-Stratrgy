@@ -24,11 +24,6 @@ Visualization of cumulative returns
 
 📌 Installation & Setup
 
-Clone the repository:
-
-git clone https://github.com/yourusername/momentum-strategy.git
-cd momentum-strategy
-
 Install dependencies:
 
 pip install -r requirements.txt
